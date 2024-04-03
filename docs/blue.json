@@ -1,5 +1,5 @@
 {
-    "spider": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246",
+    "spider": "http://cdn.qiaoji8.com/fix24318.jar;md5;118da2bca160a3632204479a48f74001",
     "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
     "lives": [
         {
@@ -66,27 +66,29 @@
             "ext": "https://api.cnmcom.com/webcloud/nmsvip.php?url="
         },
         {
-            "key": "tvbsk",
-            "name": "TVB┃App",
-            "type": 3,
-            "api": "csp_Skapp",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/tvbyb"
-        },
-        {
-            "key": "星星",
-            "name": "星星┃App",
-            "type": 3,
-            "api": "csp_qiao",
-            "playerType": 2,
-            "ext": "https://jihulab.com/qiaoji/open/-/raw/main/xingxing"
-        },
-        {
-            "key": "K影",
-            "name": "K影院┃App",
+            "key": "AI1",
+            "name": "AI1┃APP",
             "type": 1,
-            "api": "http://vipcom.xn--654a.cc/api.php/provide/vod/",
-            "playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=",
+            "api": "http://124.222.116.5/macos/seven/api.php/provide/vod/",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "AI2",
+            "name": "AI2┃仅搜索",
+            "type": 1,
+            "api": "http://124.222.116.5/mb/api.php/provide/vod/?ac=videolist",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1
+        },
+        {
+            "key": "AI3",
+            "name": "AI3┃仅搜索",
+            "type": 1,
+            "api": "http://124.222.30.115/mb/api.php/provide/vod/?ac=videolist",
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1
         },
@@ -111,7 +113,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "playerType": 2,
-            "ext": "http://www.rzys.cc|rzys875|182"
+            "ext": "http://pandown.pro/tvbox/mayi.txt"
         },
         {
             "key": "看看",
@@ -141,7 +143,8 @@
             "quickSearch": 1,
             "playerType": 1,
             "filterable": 0,
-            "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9"
+            "ext": "https://sc1080.top|e59d44b2eef03ad9|e59d44b2eef03ad9",
+            "jar": "http://cdn.qiaoji8.com/fix24225.jar;md5;fe4c16637b991d41b2ff6b6e4df3c246"
         },
         {
             "key": "Bdys_spider",
@@ -214,7 +217,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://www.czzy55.com/"
+            "ext": "https://www.czzy77.com/"
         },
         {
             "key": "csp_Auete",
@@ -281,7 +284,6 @@
                     "奇艺",
                     "youku",
                     "优酷",
-                    "tucheng",
                     "sohu",
                     "搜狐",
                     "letv",
@@ -290,16 +292,34 @@
                     "芒果",
                     "tnmb",
                     "seven",
-                    "yzm",
-                    "aliyun",
-                    "RJuMao",
                     "bilibili",
-                    "1905",
-                    "xinvip",
-                    "XAL",
-                    "qiqi",
-                    "XALS",
-                    "YuMi-vip"
+                    "1905"
+                ]
+            }
+        },
+        {
+            "name": "巧技二",
+            "type": 1,
+            "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
                 ]
             }
         }
@@ -309,43 +329,16 @@
         "qq",
         "QQ",
         "iqiyi",
-        "SPA",
         "qiyi",
         "letv",
         "sohu",
-        "YuMi-vip",
         "pptv",
         "PPTV",
         "mgtv",
-        "ltnb",
-        "rx",
-        "SLYS4k",
-        "tucheng",
-        "BYGA",
-        "luanzi",
-        "dxzy",
-        "QEYSS",
-        "aliyun",
-        "AliS",
-        "122",
-        "chuangying",
-        "CL4K",
-        "xfyun",
-        "wuduzy",
         "wasu",
         "bilibili",
-        "renrenmi",
-        "ppayun",
-        "haiwaikan",
-        "cool",
-        "dbm3u8",
-        "xmm",
-        "xigua",
         "m1905",
-        "funshion",
-        "imgo",
-        "ruyi1080",
-        "ruyib1080"
+        "seven"
     ],
     "ijk": [
         {
